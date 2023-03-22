@@ -6,9 +6,8 @@
 Welcome to my_yt_project's documentation!
 =========================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+.. include:: modules.rst
+
 
 
 
